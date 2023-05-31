@@ -29,3 +29,4 @@ class App:
 				print("Введённое значение не может быть больше трёх!")
 				continue
 			return numberOfUnknowns
+
